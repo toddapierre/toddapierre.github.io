@@ -144,6 +144,15 @@ p{
   display: flex;
   justify-content: space-between;
 }
+.course-col{
+  flex-basics: 31%
+  background: #0188FE;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+
+}
 
 
 
