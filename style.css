@@ -76,6 +76,12 @@ list-style: none;
   position: relative;
   cursor: pointer;
 }
+.hero-btn:hover{
+  border: 1px solid #0188FE;
+  background: #0188FE;
+  transition: 1s;
+
+}
 
 
 
