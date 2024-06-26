@@ -145,7 +145,7 @@ p{
   justify-content: space-between;
 }
 .course-col{
-  flex-basics: 31%
+  flex-basis: 31%;
   background: #0188FE;
   border-radius: 10px;
   margin-bottom: 5%;
