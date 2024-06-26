@@ -8,5 +8,8 @@
   background-image: linear-
     gradient(rgba(0,255,124,1),(rgba(0,255,124,1)),url(https://pin.it/7cdtZXeBp)
   ;
+  background-position: center;
+  background-size: cover;
+  position: relative;
   
 }
