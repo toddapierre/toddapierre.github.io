@@ -109,8 +109,10 @@ nav .fa{
     color: #888;
     margin: 10px;
     font-size: 22px;
-    cursor: pointer;
-    
+    cursor: pointer;   
+  }
+  .nav-links ul{
+    padding: 30px;
   }
 }
 
