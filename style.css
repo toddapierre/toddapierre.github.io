@@ -57,8 +57,7 @@ list-style: none;
   text-align: center;
 }
 .text-box h1{
-  font-size:  62px;
-
+  font-size: 62px;
 }
 .text-box p{
   margin: 10px 0 40px;
@@ -80,6 +79,14 @@ list-style: none;
   border: 1px solid #0188FE;
   background: #0188FE;
   transition: 1s;
+
+}
+
+@media(max-width: 700px){
+  .text-box h1{
+  font-size: 20px;
+}
+  
 
 }
 
