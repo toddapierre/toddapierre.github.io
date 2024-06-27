@@ -167,6 +167,18 @@ h3{
   .row{
     flex-direction: column;
 }
+}
+
+/*------------Screenshots------------*/
+
+.screenshots{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
 
 
 
