@@ -144,7 +144,7 @@ p{
   display: flex;
   justify-content: space-between;
 }
-.course-col{
+.videos-col{
   flex-basis: 31%;
   background: #F8F8F8;
   border-radius: 10px;
@@ -160,7 +160,7 @@ h3{
   margin: 10px 0;
 
 }
-.course-col:hover{
+.videos-col:hover{
   box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 @media(max-width: 700px){
